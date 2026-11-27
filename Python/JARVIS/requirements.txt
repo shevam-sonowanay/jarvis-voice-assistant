@@ -1,0 +1,9 @@
+SpeechRecognition
+PyAudio
+pyautogui
+wikipedia
+edge-tts
+pygame
+google-genai
+pywhatkit
+python-dotenv
